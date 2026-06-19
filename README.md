@@ -1,5 +1,4 @@
-# it-helpdesk-simulation
- 🖥️ IT Helpdesk Simulation
+ IT Helpdesk Simulation
 
 > **Tools:** Google Sheets · Documentation · SOP Writing · KPI Tracking
 > **Type:** IT Support Portfolio Project
