@@ -1,0 +1,321 @@
+ticket_id,created_date,month,category,priority,assigned_agent,status,resolution_hours,sla_target_hours,met_sla,first_contact_resolved,csat_score
+TKT-2000,2024-02-27,Feb 2024,Onboarding,P3 - Medium,Ama S.,Resolved,19.6,8,No,Yes,3.7
+TKT-2001,2024-10-06,Oct 2024,Onboarding,P3 - Medium,Kofi M.,Resolved,5.9,8,Yes,Yes,3.8
+TKT-2002,2024-01-14,Jan 2024,Email,P2 - High,James K.,Resolved,0.5,4,Yes,Yes,4.1
+TKT-2003,2024-10-28,Oct 2024,Account Access,P2 - High,Ernestina Z.,Resolved,6.0,4,No,Yes,4.1
+TKT-2004,2024-03-20,Mar 2024,Software,P3 - Medium,Ama S.,Resolved,8.0,8,No,Yes,4.0
+TKT-2005,2024-11-05,Nov 2024,Software,P1 - Critical,Ernestina Z.,Resolved,2.8,1,No,Yes,5.0
+TKT-2006,2024-02-10,Feb 2024,Account Access,P4 - Low,Ama S.,Resolved,4.3,24,Yes,Yes,4.8
+TKT-2007,2024-04-08,Apr 2024,Email,P2 - High,Ernestina Z.,Resolved,0.6,4,Yes,Yes,3.9
+TKT-2008,2024-04-29,Apr 2024,Network/VPN,P3 - Medium,Kofi M.,Resolved,4.8,8,Yes,Yes,4.0
+TKT-2009,2024-06-30,Jun 2024,Software,P3 - Medium,Ama S.,Resolved,2.2,8,Yes,Yes,3.6
+TKT-2010,2024-03-28,Mar 2024,Onboarding,P3 - Medium,James K.,Resolved,1.0,8,Yes,Yes,5.0
+TKT-2011,2024-12-18,Dec 2024,Onboarding,P3 - Medium,James K.,Resolved,3.0,8,Yes,Yes,4.7
+TKT-2012,2024-01-17,Jan 2024,Hardware,P3 - Medium,Kofi M.,Resolved,10.0,8,No,Yes,4.9
+TKT-2013,2024-06-10,Jun 2024,Onboarding,P2 - High,Kofi M.,Resolved,2.2,4,Yes,Yes,4.2
+TKT-2014,2024-03-12,Mar 2024,Software,P3 - Medium,Ama S.,Resolved,0.5,8,Yes,Yes,4.4
+TKT-2015,2024-04-22,Apr 2024,Software,P3 - Medium,Kofi M.,Resolved,1.2,8,Yes,Yes,3.7
+TKT-2016,2024-03-22,Mar 2024,Onboarding,P2 - High,Kofi M.,Resolved,8.9,4,No,Yes,4.4
+TKT-2017,2024-09-27,Sep 2024,Account Access,P4 - Low,Ernestina Z.,Resolved,29.7,24,No,Yes,4.8
+TKT-2018,2024-05-16,May 2024,Security,P3 - Medium,Ama S.,Resolved,0.7,8,Yes,Yes,4.2
+TKT-2019,2024-05-14,May 2024,Onboarding,P3 - Medium,James K.,Resolved,3.8,8,Yes,Yes,4.4
+TKT-2020,2024-11-23,Nov 2024,Security,P2 - High,James K.,Resolved,2.1,4,Yes,Yes,4.3
+TKT-2021,2024-09-28,Sep 2024,Security,P1 - Critical,Ama S.,Resolved,1.9,1,No,Yes,4.0
+TKT-2022,2024-06-06,Jun 2024,Security,P3 - Medium,Ernestina Z.,Resolved,7.1,8,Yes,Yes,3.6
+TKT-2023,2024-09-05,Sep 2024,Onboarding,P3 - Medium,James K.,Resolved,4.8,8,Yes,Yes,4.3
+TKT-2024,2024-09-27,Sep 2024,Software,P3 - Medium,Kofi M.,Resolved,1.3,8,Yes,No,4.6
+TKT-2025,2024-04-12,Apr 2024,Onboarding,P4 - Low,Ama S.,Resolved,26.9,24,No,Yes,4.1
+TKT-2026,2024-08-19,Aug 2024,Email,P4 - Low,James K.,Resolved,40.5,24,No,Yes,4.4
+TKT-2027,2024-10-28,Oct 2024,Hardware,P3 - Medium,Ernestina Z.,Resolved,16.6,8,No,Yes,3.8
+TKT-2028,2024-06-18,Jun 2024,Network/VPN,P2 - High,James K.,Resolved,0.7,4,Yes,Yes,4.3
+TKT-2029,2024-10-19,Oct 2024,Onboarding,P1 - Critical,Kofi M.,Resolved,0.5,1,Yes,Yes,4.1
+TKT-2030,2024-02-19,Feb 2024,Network/VPN,P3 - Medium,Kofi M.,Resolved,2.1,8,Yes,Yes,4.8
+TKT-2031,2024-12-10,Dec 2024,Network/VPN,P4 - Low,Ernestina Z.,Resolved,7.9,24,Yes,Yes,4.7
+TKT-2032,2024-05-07,May 2024,Network/VPN,P3 - Medium,James K.,Resolved,5.1,8,Yes,Yes,3.8
+TKT-2033,2024-05-07,May 2024,Account Access,P2 - High,Kofi M.,Resolved,4.9,4,No,Yes,3.6
+TKT-2034,2024-10-03,Oct 2024,Onboarding,P2 - High,Ernestina Z.,Resolved,13.0,4,No,No,3.7
+TKT-2035,2024-09-03,Sep 2024,Account Access,P4 - Low,Kofi M.,Resolved,4.0,24,Yes,No,3.5
+TKT-2036,2024-05-15,May 2024,Account Access,P1 - Critical,Ama S.,In Progress,1.4,1,No,Yes,
+TKT-2037,2024-12-04,Dec 2024,Email,P3 - Medium,Kofi M.,Resolved,8.5,8,No,Yes,5.0
+TKT-2038,2024-10-04,Oct 2024,Email,P4 - Low,Ama S.,Resolved,1.4,24,Yes,Yes,4.3
+TKT-2039,2024-09-28,Sep 2024,Security,P3 - Medium,Ernestina Z.,Resolved,0.8,8,Yes,No,3.8
+TKT-2040,2024-02-04,Feb 2024,Email,P4 - Low,James K.,In Progress,17.6,24,Yes,Yes,
+TKT-2041,2024-10-31,Oct 2024,Email,P3 - Medium,Ernestina Z.,Resolved,0.5,8,Yes,Yes,4.3
+TKT-2042,2024-04-14,Apr 2024,Software,P3 - Medium,Ama S.,Resolved,2.6,8,Yes,Yes,4.5
+TKT-2043,2024-08-22,Aug 2024,Software,P3 - Medium,Ernestina Z.,Resolved,6.6,8,Yes,Yes,4.3
+TKT-2044,2024-02-07,Feb 2024,Network/VPN,P4 - Low,James K.,Resolved,11.5,24,Yes,Yes,4.0
+TKT-2045,2024-05-05,May 2024,Network/VPN,P2 - High,Ama S.,Resolved,3.7,4,Yes,Yes,4.6
+TKT-2046,2024-11-30,Nov 2024,Email,P4 - Low,Ernestina Z.,Resolved,14.8,24,Yes,Yes,4.9
+TKT-2047,2024-03-09,Mar 2024,Network/VPN,P4 - Low,Ernestina Z.,Resolved,12.3,24,Yes,No,3.7
+TKT-2048,2024-11-05,Nov 2024,Software,P3 - Medium,Ama S.,Resolved,3.6,8,Yes,Yes,3.9
+TKT-2049,2024-05-08,May 2024,Account Access,P1 - Critical,Ernestina Z.,Resolved,0.5,1,Yes,Yes,3.6
+TKT-2050,2024-03-07,Mar 2024,Software,P1 - Critical,Ama S.,Resolved,0.8,1,Yes,Yes,4.6
+TKT-2051,2024-01-05,Jan 2024,Email,P3 - Medium,Ernestina Z.,Resolved,4.6,8,Yes,No,3.7
+TKT-2052,2024-07-08,Jul 2024,Network/VPN,P4 - Low,James K.,Resolved,5.2,24,Yes,Yes,4.0
+TKT-2053,2024-01-21,Jan 2024,Security,P3 - Medium,James K.,Resolved,9.2,8,No,Yes,4.0
+TKT-2054,2024-07-27,Jul 2024,Email,P2 - High,James K.,Resolved,0.5,4,Yes,No,3.7
+TKT-2055,2024-03-31,Mar 2024,Security,P3 - Medium,Ernestina Z.,Resolved,1.1,8,Yes,Yes,4.7
+TKT-2056,2024-12-08,Dec 2024,Account Access,P4 - Low,James K.,Resolved,29.7,24,No,Yes,3.7
+TKT-2057,2024-01-20,Jan 2024,Security,P3 - Medium,James K.,Resolved,13.3,8,No,Yes,4.0
+TKT-2058,2024-04-26,Apr 2024,Security,P4 - Low,Ernestina Z.,Resolved,3.7,24,Yes,Yes,3.9
+TKT-2059,2024-05-22,May 2024,Network/VPN,P4 - Low,Kofi M.,Resolved,14.0,24,Yes,Yes,4.0
+TKT-2060,2024-02-29,Feb 2024,Network/VPN,P4 - Low,James K.,Closed,40.8,24,No,Yes,4.4
+TKT-2061,2024-06-09,Jun 2024,Software,P3 - Medium,Ernestina Z.,Resolved,0.8,8,Yes,Yes,3.9
+TKT-2062,2024-08-11,Aug 2024,Onboarding,P2 - High,James K.,Resolved,1.7,4,Yes,Yes,4.5
+TKT-2063,2024-11-15,Nov 2024,Software,P4 - Low,Ernestina Z.,Resolved,35.5,24,No,Yes,4.0
+TKT-2064,2024-06-16,Jun 2024,Account Access,P1 - Critical,Ama S.,Resolved,0.6,1,Yes,Yes,4.5
+TKT-2065,2024-12-12,Dec 2024,Account Access,P3 - Medium,James K.,Resolved,1.6,8,Yes,Yes,4.3
+TKT-2066,2024-06-04,Jun 2024,Network/VPN,P2 - High,James K.,Resolved,1.2,4,Yes,Yes,4.5
+TKT-2067,2024-08-14,Aug 2024,Account Access,P4 - Low,James K.,Resolved,7.0,24,Yes,Yes,4.9
+TKT-2068,2024-03-27,Mar 2024,Onboarding,P3 - Medium,Ernestina Z.,Resolved,7.9,8,Yes,Yes,4.4
+TKT-2069,2024-04-30,Apr 2024,Network/VPN,P3 - Medium,Ama S.,Resolved,23.2,8,No,Yes,3.5
+TKT-2070,2024-08-31,Aug 2024,Hardware,P4 - Low,Ernestina Z.,Resolved,5.2,24,Yes,Yes,4.4
+TKT-2071,2024-12-22,Dec 2024,Onboarding,P3 - Medium,Kofi M.,Resolved,2.3,8,Yes,Yes,4.5
+TKT-2072,2024-02-24,Feb 2024,Security,P3 - Medium,James K.,In Progress,0.5,8,Yes,Yes,
+TKT-2073,2024-10-12,Oct 2024,Network/VPN,P3 - Medium,Ernestina Z.,Resolved,4.5,8,Yes,Yes,4.5
+TKT-2074,2024-10-31,Oct 2024,Email,P2 - High,Kofi M.,Resolved,1.0,4,Yes,Yes,4.3
+TKT-2075,2024-10-07,Oct 2024,Security,P4 - Low,James K.,Resolved,4.9,24,Yes,Yes,3.9
+TKT-2076,2024-11-22,Nov 2024,Hardware,P2 - High,Kofi M.,Resolved,2.0,4,Yes,Yes,3.6
+TKT-2077,2024-04-30,Apr 2024,Software,P4 - Low,Ama S.,Resolved,5.0,24,Yes,Yes,3.7
+TKT-2078,2024-07-15,Jul 2024,Hardware,P3 - Medium,James K.,Resolved,9.3,8,No,Yes,4.1
+TKT-2079,2024-08-26,Aug 2024,Email,P2 - High,Ernestina Z.,Resolved,3.9,4,Yes,Yes,4.9
+TKT-2080,2024-12-22,Dec 2024,Email,P3 - Medium,Kofi M.,Closed,6.5,8,Yes,Yes,4.1
+TKT-2081,2024-08-02,Aug 2024,Security,P3 - Medium,James K.,Resolved,5.0,8,Yes,Yes,4.2
+TKT-2082,2024-06-21,Jun 2024,Account Access,P2 - High,Kofi M.,Resolved,5.4,4,No,Yes,4.9
+TKT-2083,2024-09-30,Sep 2024,Email,P3 - Medium,Kofi M.,Resolved,1.3,8,Yes,Yes,3.6
+TKT-2084,2024-03-10,Mar 2024,Account Access,P1 - Critical,James K.,Resolved,0.7,1,Yes,Yes,3.8
+TKT-2085,2024-06-21,Jun 2024,Software,P3 - Medium,Ama S.,Resolved,0.5,8,Yes,Yes,3.9
+TKT-2086,2024-08-28,Aug 2024,Network/VPN,P3 - Medium,Ernestina Z.,Resolved,1.7,8,Yes,No,4.5
+TKT-2087,2024-11-29,Nov 2024,Security,P3 - Medium,Ernestina Z.,Resolved,1.2,8,Yes,No,3.5
+TKT-2088,2024-05-02,May 2024,Hardware,P3 - Medium,Kofi M.,Resolved,3.2,8,Yes,Yes,3.8
+TKT-2089,2024-05-11,May 2024,Onboarding,P4 - Low,James K.,In Progress,2.7,24,Yes,Yes,
+TKT-2090,2024-03-24,Mar 2024,Security,P3 - Medium,Ernestina Z.,Resolved,0.8,8,Yes,Yes,4.4
+TKT-2091,2024-07-22,Jul 2024,Account Access,P4 - Low,James K.,Resolved,37.8,24,No,Yes,4.4
+TKT-2092,2024-12-22,Dec 2024,Network/VPN,P3 - Medium,Ernestina Z.,Resolved,7.0,8,Yes,Yes,3.6
+TKT-2093,2024-08-07,Aug 2024,Email,P4 - Low,Ama S.,Resolved,14.6,24,Yes,Yes,3.5
+TKT-2094,2024-09-07,Sep 2024,Account Access,P3 - Medium,Kofi M.,Resolved,1.8,8,Yes,No,4.7
+TKT-2095,2024-03-19,Mar 2024,Onboarding,P2 - High,James K.,Closed,6.8,4,No,Yes,4.7
+TKT-2096,2024-09-04,Sep 2024,Email,P4 - Low,Kofi M.,Resolved,18.0,24,Yes,Yes,4.0
+TKT-2097,2024-02-14,Feb 2024,Hardware,P3 - Medium,Kofi M.,Resolved,2.8,8,Yes,Yes,4.4
+TKT-2098,2024-06-21,Jun 2024,Account Access,P3 - Medium,Kofi M.,Resolved,14.8,8,No,Yes,3.8
+TKT-2099,2024-05-12,May 2024,Security,P4 - Low,Ama S.,Resolved,27.2,24,No,No,3.9
+TKT-2100,2024-09-21,Sep 2024,Network/VPN,P3 - Medium,Ernestina Z.,Resolved,0.6,8,Yes,Yes,4.3
+TKT-2101,2024-12-19,Dec 2024,Hardware,P2 - High,Kofi M.,Resolved,6.9,4,No,Yes,3.9
+TKT-2102,2024-12-20,Dec 2024,Account Access,P3 - Medium,Ama S.,Resolved,0.5,8,Yes,Yes,4.3
+TKT-2103,2024-08-05,Aug 2024,Software,P2 - High,Ama S.,Resolved,3.3,4,Yes,Yes,4.0
+TKT-2104,2024-03-02,Mar 2024,Hardware,P1 - Critical,James K.,Resolved,0.5,1,Yes,Yes,4.9
+TKT-2105,2024-04-04,Apr 2024,Onboarding,P3 - Medium,James K.,Resolved,7.7,8,Yes,Yes,4.4
+TKT-2106,2024-09-25,Sep 2024,Security,P3 - Medium,Ama S.,Resolved,1.7,8,Yes,No,3.9
+TKT-2107,2024-04-01,Apr 2024,Software,P3 - Medium,Ernestina Z.,Resolved,1.8,8,Yes,Yes,3.6
+TKT-2108,2024-10-10,Oct 2024,Network/VPN,P3 - Medium,James K.,Resolved,8.9,8,No,Yes,3.7
+TKT-2109,2024-10-20,Oct 2024,Network/VPN,P3 - Medium,Kofi M.,Resolved,12.3,8,No,Yes,4.9
+TKT-2110,2024-09-01,Sep 2024,Software,P3 - Medium,Ernestina Z.,Resolved,5.5,8,Yes,Yes,4.4
+TKT-2111,2024-03-18,Mar 2024,Network/VPN,P2 - High,Ama S.,Resolved,1.4,4,Yes,Yes,4.3
+TKT-2112,2024-11-06,Nov 2024,Account Access,P3 - Medium,James K.,Resolved,1.8,8,Yes,Yes,4.9
+TKT-2113,2024-10-28,Oct 2024,Software,P4 - Low,Ama S.,Resolved,9.0,24,Yes,Yes,4.9
+TKT-2114,2024-04-16,Apr 2024,Network/VPN,P4 - Low,James K.,Resolved,18.0,24,Yes,Yes,3.9
+TKT-2115,2024-02-08,Feb 2024,Email,P4 - Low,Ernestina Z.,Resolved,12.6,24,Yes,Yes,4.2
+TKT-2116,2024-04-28,Apr 2024,Network/VPN,P3 - Medium,Ama S.,Resolved,4.4,8,Yes,Yes,4.5
+TKT-2117,2024-11-16,Nov 2024,Software,P2 - High,James K.,Resolved,3.8,4,Yes,Yes,4.5
+TKT-2118,2024-03-13,Mar 2024,Software,P3 - Medium,Ernestina Z.,Resolved,0.5,8,Yes,Yes,4.6
+TKT-2119,2024-05-27,May 2024,Email,P3 - Medium,Ernestina Z.,Resolved,1.3,8,Yes,Yes,4.1
+TKT-2120,2024-09-13,Sep 2024,Software,P4 - Low,Kofi M.,Resolved,55.4,24,No,Yes,4.8
+TKT-2121,2024-06-14,Jun 2024,Onboarding,P4 - Low,Ama S.,Resolved,8.3,24,Yes,Yes,4.5
+TKT-2122,2024-10-21,Oct 2024,Security,P1 - Critical,Ernestina Z.,Resolved,2.1,1,No,No,3.9
+TKT-2123,2024-03-30,Mar 2024,Network/VPN,P3 - Medium,Kofi M.,Resolved,22.1,8,No,No,4.4
+TKT-2124,2024-09-08,Sep 2024,Onboarding,P4 - Low,Kofi M.,Resolved,34.5,24,No,Yes,4.5
+TKT-2125,2024-03-23,Mar 2024,Security,P3 - Medium,Kofi M.,Resolved,3.2,8,Yes,Yes,4.9
+TKT-2126,2024-10-08,Oct 2024,Security,P4 - Low,Kofi M.,Resolved,6.9,24,Yes,Yes,3.7
+TKT-2127,2024-07-25,Jul 2024,Security,P2 - High,Ernestina Z.,Resolved,2.4,4,Yes,Yes,4.1
+TKT-2128,2024-09-22,Sep 2024,Hardware,P4 - Low,Kofi M.,Resolved,21.4,24,Yes,Yes,3.8
+TKT-2129,2024-03-08,Mar 2024,Email,P3 - Medium,Kofi M.,Resolved,0.7,8,Yes,No,3.5
+TKT-2130,2024-11-07,Nov 2024,Onboarding,P3 - Medium,James K.,Resolved,30.0,8,No,Yes,4.1
+TKT-2131,2024-02-28,Feb 2024,Hardware,P2 - High,Ernestina Z.,Resolved,2.2,4,Yes,Yes,4.9
+TKT-2132,2024-09-17,Sep 2024,Software,P4 - Low,Ama S.,Resolved,24.3,24,No,Yes,4.2
+TKT-2133,2024-10-09,Oct 2024,Account Access,P3 - Medium,Kofi M.,Resolved,7.9,8,Yes,Yes,4.6
+TKT-2134,2024-02-05,Feb 2024,Hardware,P3 - Medium,Kofi M.,Resolved,2.3,8,Yes,Yes,3.9
+TKT-2135,2024-05-24,May 2024,Network/VPN,P4 - Low,Ama S.,Resolved,29.9,24,No,Yes,4.5
+TKT-2136,2024-03-17,Mar 2024,Security,P4 - Low,Kofi M.,Resolved,44.0,24,No,Yes,4.3
+TKT-2137,2024-06-13,Jun 2024,Account Access,P3 - Medium,James K.,Resolved,4.5,8,Yes,Yes,4.7
+TKT-2138,2024-06-11,Jun 2024,Network/VPN,P4 - Low,Kofi M.,Resolved,18.9,24,Yes,Yes,4.1
+TKT-2139,2024-11-29,Nov 2024,Onboarding,P3 - Medium,Kofi M.,Resolved,10.3,8,No,No,4.9
+TKT-2140,2024-02-21,Feb 2024,Software,P4 - Low,Ernestina Z.,Resolved,7.4,24,Yes,Yes,4.6
+TKT-2141,2024-12-01,Dec 2024,Account Access,P3 - Medium,Ernestina Z.,Closed,0.6,8,Yes,Yes,4.5
+TKT-2142,2024-02-11,Feb 2024,Onboarding,P3 - Medium,Kofi M.,Resolved,0.5,8,Yes,No,4.8
+TKT-2143,2024-10-04,Oct 2024,Account Access,P3 - Medium,Ernestina Z.,Resolved,5.1,8,Yes,Yes,3.9
+TKT-2144,2024-02-16,Feb 2024,Hardware,P3 - Medium,Ernestina Z.,Resolved,5.8,8,Yes,Yes,3.7
+TKT-2145,2024-12-21,Dec 2024,Hardware,P1 - Critical,Ernestina Z.,Resolved,0.5,1,Yes,Yes,3.9
+TKT-2146,2024-08-08,Aug 2024,Software,P4 - Low,James K.,Resolved,8.0,24,Yes,Yes,4.7
+TKT-2147,2024-03-30,Mar 2024,Hardware,P2 - High,Kofi M.,Resolved,2.2,4,Yes,Yes,4.9
+TKT-2148,2024-04-28,Apr 2024,Hardware,P4 - Low,Ama S.,Resolved,4.4,24,Yes,Yes,4.8
+TKT-2149,2024-05-27,May 2024,Account Access,P3 - Medium,James K.,In Progress,0.6,8,Yes,Yes,
+TKT-2150,2024-11-23,Nov 2024,Software,P2 - High,Ama S.,Resolved,2.3,4,Yes,Yes,5.0
+TKT-2151,2024-09-04,Sep 2024,Security,P3 - Medium,James K.,Resolved,6.6,8,Yes,Yes,3.9
+TKT-2152,2024-05-31,May 2024,Onboarding,P3 - Medium,Kofi M.,Resolved,24.2,8,No,Yes,4.5
+TKT-2153,2024-01-26,Jan 2024,Onboarding,P3 - Medium,Kofi M.,Resolved,2.5,8,Yes,Yes,4.7
+TKT-2154,2024-11-06,Nov 2024,Hardware,P4 - Low,James K.,Resolved,5.7,24,Yes,Yes,4.5
+TKT-2155,2024-12-03,Dec 2024,Onboarding,P3 - Medium,James K.,Resolved,0.5,8,Yes,Yes,4.5
+TKT-2156,2024-08-13,Aug 2024,Software,P1 - Critical,Ama S.,Resolved,2.6,1,No,Yes,3.9
+TKT-2157,2024-07-31,Jul 2024,Onboarding,P4 - Low,James K.,Resolved,21.4,24,Yes,Yes,5.0
+TKT-2158,2024-09-13,Sep 2024,Email,P3 - Medium,James K.,Resolved,1.2,8,Yes,Yes,4.2
+TKT-2159,2024-05-31,May 2024,Security,P2 - High,Ama S.,Resolved,0.9,4,Yes,Yes,3.6
+TKT-2160,2024-04-25,Apr 2024,Security,P3 - Medium,Kofi M.,Resolved,8.2,8,No,No,4.0
+TKT-2161,2024-07-21,Jul 2024,Security,P3 - Medium,Ama S.,Resolved,2.1,8,Yes,Yes,4.5
+TKT-2162,2024-05-14,May 2024,Onboarding,P4 - Low,Kofi M.,Closed,24.1,24,No,Yes,3.9
+TKT-2163,2024-11-13,Nov 2024,Network/VPN,P3 - Medium,Ama S.,Resolved,6.1,8,Yes,No,3.6
+TKT-2164,2024-08-25,Aug 2024,Security,P3 - Medium,Ama S.,Resolved,1.9,8,Yes,Yes,3.6
+TKT-2165,2024-06-04,Jun 2024,Network/VPN,P3 - Medium,Ernestina Z.,Resolved,9.2,8,No,Yes,3.7
+TKT-2166,2024-07-08,Jul 2024,Account Access,P1 - Critical,Kofi M.,Resolved,0.5,1,Yes,Yes,4.8
+TKT-2167,2024-02-20,Feb 2024,Onboarding,P1 - Critical,Kofi M.,Resolved,0.5,1,Yes,No,4.5
+TKT-2168,2024-08-15,Aug 2024,Hardware,P4 - Low,James K.,Resolved,21.9,24,Yes,Yes,4.5
+TKT-2169,2024-11-26,Nov 2024,Email,P3 - Medium,Ernestina Z.,Resolved,0.7,8,Yes,Yes,3.7
+TKT-2170,2024-08-20,Aug 2024,Security,P3 - Medium,James K.,Resolved,4.2,8,Yes,Yes,3.5
+TKT-2171,2024-06-19,Jun 2024,Security,P2 - High,James K.,Resolved,1.7,4,Yes,Yes,4.7
+TKT-2172,2024-04-16,Apr 2024,Email,P3 - Medium,James K.,Resolved,6.2,8,Yes,Yes,4.7
+TKT-2173,2024-11-01,Nov 2024,Security,P3 - Medium,Ama S.,Resolved,0.5,8,Yes,Yes,3.7
+TKT-2174,2024-03-30,Mar 2024,Software,P3 - Medium,Ernestina Z.,Resolved,6.4,8,Yes,Yes,4.7
+TKT-2175,2024-06-14,Jun 2024,Email,P3 - Medium,James K.,Resolved,12.6,8,No,Yes,4.1
+TKT-2176,2024-02-02,Feb 2024,Network/VPN,P3 - Medium,Kofi M.,Resolved,1.2,8,Yes,Yes,3.7
+TKT-2177,2024-04-23,Apr 2024,Email,P2 - High,Ernestina Z.,Resolved,3.1,4,Yes,Yes,4.5
+TKT-2178,2024-08-22,Aug 2024,Software,P1 - Critical,Ernestina Z.,Resolved,0.7,1,Yes,Yes,4.1
+TKT-2179,2024-02-25,Feb 2024,Onboarding,P4 - Low,Kofi M.,Resolved,15.4,24,Yes,Yes,4.4
+TKT-2180,2024-03-05,Mar 2024,Network/VPN,P3 - Medium,Ama S.,Resolved,6.7,8,Yes,Yes,3.9
+TKT-2181,2024-11-05,Nov 2024,Email,P3 - Medium,Ernestina Z.,Resolved,5.1,8,Yes,Yes,4.5
+TKT-2182,2024-10-09,Oct 2024,Security,P4 - Low,James K.,Resolved,8.8,24,Yes,Yes,4.1
+TKT-2183,2024-08-20,Aug 2024,Security,P4 - Low,Kofi M.,Resolved,42.4,24,No,Yes,4.0
+TKT-2184,2024-07-10,Jul 2024,Software,P2 - High,Kofi M.,Resolved,0.5,4,Yes,Yes,3.6
+TKT-2185,2024-07-09,Jul 2024,Network/VPN,P2 - High,Ernestina Z.,Resolved,0.5,4,Yes,Yes,4.0
+TKT-2186,2024-07-29,Jul 2024,Network/VPN,P2 - High,Kofi M.,Resolved,3.4,4,Yes,Yes,5.0
+TKT-2187,2024-06-08,Jun 2024,Email,P2 - High,Ernestina Z.,Resolved,1.2,4,Yes,Yes,4.5
+TKT-2188,2024-02-25,Feb 2024,Hardware,P4 - Low,Ama S.,Resolved,0.5,24,Yes,Yes,3.8
+TKT-2189,2024-10-14,Oct 2024,Account Access,P4 - Low,Ernestina Z.,Resolved,6.0,24,Yes,Yes,4.5
+TKT-2190,2024-04-02,Apr 2024,Network/VPN,P2 - High,Ama S.,Resolved,3.6,4,Yes,No,3.8
+TKT-2191,2024-10-16,Oct 2024,Hardware,P3 - Medium,Kofi M.,Resolved,13.6,8,No,Yes,5.0
+TKT-2192,2024-09-28,Sep 2024,Network/VPN,P3 - Medium,Kofi M.,Resolved,10.6,8,No,Yes,4.1
+TKT-2193,2024-06-15,Jun 2024,Onboarding,P3 - Medium,Ernestina Z.,Resolved,1.3,8,Yes,No,4.6
+TKT-2194,2024-12-11,Dec 2024,Network/VPN,P4 - Low,Ama S.,Resolved,29.6,24,No,Yes,4.4
+TKT-2195,2024-05-19,May 2024,Account Access,P4 - Low,Ernestina Z.,Resolved,9.6,24,Yes,Yes,4.5
+TKT-2196,2024-09-06,Sep 2024,Email,P3 - Medium,Ama S.,Resolved,9.7,8,No,Yes,4.4
+TKT-2197,2024-04-14,Apr 2024,Network/VPN,P3 - Medium,James K.,Resolved,17.4,8,No,Yes,3.9
+TKT-2198,2024-01-04,Jan 2024,Network/VPN,P4 - Low,Kofi M.,Resolved,10.1,24,Yes,Yes,4.6
+TKT-2199,2024-10-13,Oct 2024,Email,P4 - Low,Ama S.,Resolved,25.3,24,No,Yes,3.6
+TKT-2200,2024-08-23,Aug 2024,Network/VPN,P2 - High,Ama S.,Resolved,7.0,4,No,Yes,4.6
+TKT-2201,2024-05-28,May 2024,Account Access,P3 - Medium,Kofi M.,Resolved,11.4,8,No,Yes,4.7
+TKT-2202,2024-08-23,Aug 2024,Email,P3 - Medium,Ama S.,Resolved,14.7,8,No,Yes,3.9
+TKT-2203,2024-07-24,Jul 2024,Email,P3 - Medium,Ernestina Z.,Resolved,0.5,8,Yes,Yes,4.0
+TKT-2204,2024-03-27,Mar 2024,Software,P4 - Low,Ernestina Z.,Resolved,1.7,24,Yes,Yes,4.7
+TKT-2205,2024-11-26,Nov 2024,Software,P3 - Medium,James K.,Resolved,19.5,8,No,Yes,3.8
+TKT-2206,2024-12-01,Dec 2024,Hardware,P4 - Low,James K.,Resolved,15.3,24,Yes,No,4.2
+TKT-2207,2024-10-23,Oct 2024,Email,P3 - Medium,Ama S.,Resolved,3.9,8,Yes,Yes,3.7
+TKT-2208,2024-08-28,Aug 2024,Network/VPN,P3 - Medium,Ama S.,Resolved,2.6,8,Yes,Yes,4.0
+TKT-2209,2024-06-07,Jun 2024,Network/VPN,P3 - Medium,Kofi M.,Resolved,9.1,8,No,Yes,3.9
+TKT-2210,2024-02-16,Feb 2024,Onboarding,P4 - Low,Kofi M.,Resolved,28.1,24,No,Yes,4.7
+TKT-2211,2024-08-18,Aug 2024,Network/VPN,P2 - High,James K.,Resolved,2.0,4,Yes,Yes,3.7
+TKT-2212,2024-08-18,Aug 2024,Network/VPN,P2 - High,Ama S.,Resolved,2.4,4,Yes,No,4.5
+TKT-2213,2024-05-06,May 2024,Network/VPN,P3 - Medium,Kofi M.,Resolved,14.2,8,No,No,4.4
+TKT-2214,2024-07-09,Jul 2024,Software,P3 - Medium,Kofi M.,Resolved,0.8,8,Yes,Yes,4.4
+TKT-2215,2024-11-19,Nov 2024,Security,P2 - High,Ama S.,Resolved,4.3,4,No,Yes,4.5
+TKT-2216,2024-05-09,May 2024,Software,P3 - Medium,James K.,Resolved,0.7,8,Yes,Yes,3.7
+TKT-2217,2024-06-07,Jun 2024,Software,P2 - High,Kofi M.,Resolved,3.6,4,Yes,Yes,3.6
+TKT-2218,2024-07-11,Jul 2024,Email,P2 - High,Ama S.,Resolved,5.2,4,No,Yes,4.7
+TKT-2219,2024-12-16,Dec 2024,Onboarding,P3 - Medium,Ernestina Z.,Resolved,0.6,8,Yes,Yes,4.0
+TKT-2220,2024-06-07,Jun 2024,Software,P2 - High,James K.,Resolved,12.9,4,No,Yes,3.8
+TKT-2221,2024-03-20,Mar 2024,Hardware,P3 - Medium,Ama S.,Resolved,3.0,8,Yes,Yes,4.7
+TKT-2222,2024-09-26,Sep 2024,Security,P4 - Low,Ama S.,Resolved,53.0,24,No,No,4.4
+TKT-2223,2024-03-24,Mar 2024,Hardware,P4 - Low,James K.,Resolved,25.2,24,No,Yes,4.0
+TKT-2224,2024-05-01,May 2024,Onboarding,P3 - Medium,Ama S.,Resolved,0.6,8,Yes,Yes,3.9
+TKT-2225,2024-06-07,Jun 2024,Hardware,P4 - Low,James K.,In Progress,14.7,24,Yes,Yes,
+TKT-2226,2024-05-24,May 2024,Account Access,P3 - Medium,Kofi M.,Resolved,15.4,8,No,No,4.7
+TKT-2227,2024-05-08,May 2024,Hardware,P2 - High,Kofi M.,Resolved,2.0,4,Yes,No,3.7
+TKT-2228,2024-09-21,Sep 2024,Security,P1 - Critical,Ama S.,Resolved,0.5,1,Yes,Yes,4.2
+TKT-2229,2024-03-16,Mar 2024,Email,P2 - High,Ernestina Z.,Resolved,0.5,4,Yes,No,4.2
+TKT-2230,2024-01-14,Jan 2024,Software,P2 - High,Ernestina Z.,Resolved,3.1,4,Yes,Yes,4.1
+TKT-2231,2024-07-10,Jul 2024,Network/VPN,P3 - Medium,Ernestina Z.,Resolved,5.7,8,Yes,Yes,4.6
+TKT-2232,2024-03-15,Mar 2024,Software,P4 - Low,Ernestina Z.,Resolved,8.5,24,Yes,Yes,4.5
+TKT-2233,2024-12-27,Dec 2024,Hardware,P3 - Medium,Kofi M.,Resolved,13.2,8,No,Yes,3.5
+TKT-2234,2024-03-17,Mar 2024,Hardware,P2 - High,Kofi M.,Resolved,9.9,4,No,Yes,4.0
+TKT-2235,2024-05-02,May 2024,Network/VPN,P1 - Critical,Kofi M.,Resolved,2.8,1,No,Yes,4.2
+TKT-2236,2024-01-09,Jan 2024,Email,P1 - Critical,James K.,Resolved,1.8,1,No,Yes,3.5
+TKT-2237,2024-05-03,May 2024,Software,P3 - Medium,Kofi M.,Resolved,32.2,8,No,Yes,4.3
+TKT-2238,2024-02-04,Feb 2024,Software,P2 - High,Ernestina Z.,Resolved,2.4,4,Yes,Yes,4.5
+TKT-2239,2024-05-09,May 2024,Software,P4 - Low,Ernestina Z.,Resolved,13.3,24,Yes,Yes,3.9
+TKT-2240,2024-11-17,Nov 2024,Onboarding,P3 - Medium,Ama S.,Resolved,7.7,8,Yes,Yes,4.0
+TKT-2241,2024-03-30,Mar 2024,Onboarding,P3 - Medium,Kofi M.,Resolved,6.4,8,Yes,No,3.8
+TKT-2242,2024-02-02,Feb 2024,Hardware,P3 - Medium,Kofi M.,Resolved,15.0,8,No,Yes,4.7
+TKT-2243,2024-06-10,Jun 2024,Network/VPN,P1 - Critical,Kofi M.,Resolved,0.5,1,Yes,No,3.9
+TKT-2244,2024-11-27,Nov 2024,Security,P4 - Low,Ama S.,Resolved,39.8,24,No,Yes,4.8
+TKT-2245,2024-05-19,May 2024,Software,P3 - Medium,Ama S.,Resolved,6.3,8,Yes,Yes,4.2
+TKT-2246,2024-06-22,Jun 2024,Account Access,P3 - Medium,Kofi M.,Resolved,1.4,8,Yes,Yes,4.7
+TKT-2247,2024-02-12,Feb 2024,Software,P3 - Medium,Kofi M.,Resolved,2.8,8,Yes,Yes,4.7
+TKT-2248,2024-05-30,May 2024,Email,P3 - Medium,Ernestina Z.,Resolved,0.5,8,Yes,Yes,4.0
+TKT-2249,2024-08-06,Aug 2024,Email,P4 - Low,Kofi M.,Resolved,77.1,24,No,Yes,4.8
+TKT-2250,2024-11-10,Nov 2024,Software,P3 - Medium,Ama S.,Resolved,5.0,8,Yes,Yes,3.6
+TKT-2251,2024-11-22,Nov 2024,Onboarding,P3 - Medium,Ama S.,Resolved,10.9,8,No,Yes,3.7
+TKT-2252,2024-03-14,Mar 2024,Network/VPN,P3 - Medium,Kofi M.,Resolved,1.2,8,Yes,Yes,4.7
+TKT-2253,2024-07-04,Jul 2024,Software,P4 - Low,Ernestina Z.,Resolved,31.1,24,No,Yes,4.9
+TKT-2254,2024-08-15,Aug 2024,Software,P4 - Low,James K.,Resolved,23.3,24,Yes,Yes,4.5
+TKT-2255,2024-02-28,Feb 2024,Hardware,P3 - Medium,James K.,Resolved,3.5,8,Yes,Yes,4.3
+TKT-2256,2024-05-13,May 2024,Software,P4 - Low,Kofi M.,Resolved,36.2,24,No,Yes,4.5
+TKT-2257,2024-04-12,Apr 2024,Account Access,P1 - Critical,James K.,Resolved,0.5,1,Yes,Yes,4.8
+TKT-2258,2024-02-14,Feb 2024,Account Access,P3 - Medium,Ama S.,Resolved,10.8,8,No,Yes,4.3
+TKT-2259,2024-06-02,Jun 2024,Software,P4 - Low,James K.,Resolved,2.9,24,Yes,Yes,3.7
+TKT-2260,2024-03-12,Mar 2024,Hardware,P3 - Medium,Kofi M.,Resolved,3.1,8,Yes,Yes,4.1
+TKT-2261,2024-10-09,Oct 2024,Security,P4 - Low,Ernestina Z.,Resolved,33.2,24,No,Yes,4.6
+TKT-2262,2024-09-26,Sep 2024,Account Access,P4 - Low,Kofi M.,Resolved,11.4,24,Yes,Yes,5.0
+TKT-2263,2024-02-07,Feb 2024,Onboarding,P3 - Medium,Kofi M.,Resolved,2.1,8,Yes,Yes,4.8
+TKT-2264,2024-10-09,Oct 2024,Security,P2 - High,James K.,Resolved,6.0,4,No,Yes,4.3
+TKT-2265,2024-01-29,Jan 2024,Security,P4 - Low,James K.,Resolved,147.1,24,No,Yes,4.9
+TKT-2266,2024-06-26,Jun 2024,Hardware,P4 - Low,Ama S.,Resolved,14.6,24,Yes,Yes,4.5
+TKT-2267,2024-05-20,May 2024,Email,P4 - Low,Ama S.,Resolved,52.1,24,No,Yes,4.5
+TKT-2268,2024-10-24,Oct 2024,Email,P4 - Low,James K.,Resolved,5.1,24,Yes,Yes,4.4
+TKT-2269,2024-10-15,Oct 2024,Security,P3 - Medium,Ernestina Z.,In Progress,0.9,8,Yes,Yes,
+TKT-2270,2024-11-29,Nov 2024,Software,P4 - Low,Kofi M.,Resolved,16.8,24,Yes,Yes,4.8
+TKT-2271,2024-05-28,May 2024,Email,P2 - High,Ama S.,Resolved,3.3,4,Yes,Yes,4.5
+TKT-2272,2024-08-20,Aug 2024,Software,P3 - Medium,Ernestina Z.,Resolved,2.9,8,Yes,Yes,4.2
+TKT-2273,2024-11-06,Nov 2024,Software,P2 - High,Ama S.,Resolved,3.3,4,Yes,Yes,5.0
+TKT-2274,2024-07-23,Jul 2024,Software,P3 - Medium,Ama S.,Resolved,9.6,8,No,Yes,3.9
+TKT-2275,2024-05-16,May 2024,Network/VPN,P3 - Medium,James K.,Resolved,12.4,8,No,Yes,4.9
+TKT-2276,2024-11-11,Nov 2024,Security,P3 - Medium,James K.,Resolved,5.4,8,Yes,No,4.7
+TKT-2277,2024-06-09,Jun 2024,Email,P4 - Low,James K.,Resolved,9.3,24,Yes,Yes,4.2
+TKT-2278,2024-09-11,Sep 2024,Software,P2 - High,Ernestina Z.,Resolved,0.5,4,Yes,No,5.0
+TKT-2279,2024-10-25,Oct 2024,Hardware,P4 - Low,Ernestina Z.,Resolved,17.4,24,Yes,Yes,4.8
+TKT-2280,2024-12-10,Dec 2024,Onboarding,P3 - Medium,Ama S.,Resolved,1.6,8,Yes,Yes,4.1
+TKT-2281,2024-07-06,Jul 2024,Software,P2 - High,Ama S.,Resolved,0.5,4,Yes,Yes,4.3
+TKT-2282,2024-10-10,Oct 2024,Software,P3 - Medium,Ernestina Z.,Resolved,5.8,8,Yes,Yes,4.3
+TKT-2283,2024-11-15,Nov 2024,Security,P3 - Medium,Ernestina Z.,Resolved,3.7,8,Yes,Yes,4.1
+TKT-2284,2024-10-12,Oct 2024,Software,P4 - Low,James K.,Resolved,7.7,24,Yes,Yes,4.3
+TKT-2285,2024-01-20,Jan 2024,Network/VPN,P3 - Medium,Ama S.,Resolved,10.0,8,No,Yes,3.7
+TKT-2286,2024-03-12,Mar 2024,Email,P3 - Medium,Ama S.,In Progress,6.3,8,Yes,Yes,
+TKT-2287,2024-10-30,Oct 2024,Software,P4 - Low,Kofi M.,Resolved,53.8,24,No,Yes,4.7
+TKT-2288,2024-06-18,Jun 2024,Software,P2 - High,Ernestina Z.,Resolved,7.8,4,No,No,4.7
+TKT-2289,2024-12-18,Dec 2024,Onboarding,P3 - Medium,Ernestina Z.,Resolved,1.9,8,Yes,Yes,4.5
+TKT-2290,2024-10-23,Oct 2024,Security,P3 - Medium,James K.,Resolved,25.4,8,No,Yes,3.8
+TKT-2291,2024-11-13,Nov 2024,Onboarding,P3 - Medium,James K.,Resolved,2.6,8,Yes,Yes,4.4
+TKT-2292,2024-02-26,Feb 2024,Onboarding,P3 - Medium,Ernestina Z.,Resolved,1.8,8,Yes,Yes,4.1
+TKT-2293,2024-07-29,Jul 2024,Hardware,P2 - High,Kofi M.,Resolved,0.5,4,Yes,No,3.6
+TKT-2294,2024-09-22,Sep 2024,Hardware,P2 - High,Ama S.,Resolved,0.5,4,Yes,No,4.1
+TKT-2295,2024-08-23,Aug 2024,Hardware,P2 - High,Ama S.,Resolved,3.1,4,Yes,Yes,4.8
+TKT-2296,2024-11-25,Nov 2024,Onboarding,P2 - High,Ama S.,Resolved,1.3,4,Yes,Yes,3.9
+TKT-2297,2024-06-01,Jun 2024,Email,P4 - Low,Ama S.,Resolved,11.6,24,Yes,Yes,4.5
+TKT-2298,2024-06-11,Jun 2024,Account Access,P3 - Medium,Ama S.,In Progress,1.2,8,Yes,Yes,
+TKT-2299,2024-03-03,Mar 2024,Software,P2 - High,Kofi M.,Resolved,0.5,4,Yes,No,4.0
+TKT-2300,2024-03-15,Mar 2024,Security,P2 - High,Ernestina Z.,Resolved,1.0,4,Yes,Yes,4.0
+TKT-2301,2024-12-01,Dec 2024,Account Access,P2 - High,Kofi M.,Resolved,0.5,4,Yes,Yes,3.9
+TKT-2302,2024-12-22,Dec 2024,Email,P2 - High,James K.,Resolved,1.9,4,Yes,Yes,3.9
+TKT-2303,2024-12-08,Dec 2024,Network/VPN,P2 - High,James K.,Resolved,1.4,4,Yes,Yes,4.1
+TKT-2304,2024-08-29,Aug 2024,Onboarding,P3 - Medium,James K.,Resolved,7.6,8,Yes,Yes,4.9
+TKT-2305,2024-11-30,Nov 2024,Account Access,P1 - Critical,Kofi M.,Resolved,1.3,1,No,Yes,3.9
+TKT-2306,2024-11-26,Nov 2024,Software,P3 - Medium,Ernestina Z.,Resolved,0.6,8,Yes,Yes,4.6
+TKT-2307,2024-01-20,Jan 2024,Security,P4 - Low,Kofi M.,Resolved,45.7,24,No,No,4.9
+TKT-2308,2024-07-22,Jul 2024,Security,P2 - High,James K.,In Progress,1.0,4,Yes,No,
+TKT-2309,2024-01-05,Jan 2024,Network/VPN,P4 - Low,Ernestina Z.,Resolved,24.8,24,No,No,4.2
+TKT-2310,2024-10-05,Oct 2024,Onboarding,P2 - High,Kofi M.,Resolved,0.7,4,Yes,No,4.3
+TKT-2311,2024-04-08,Apr 2024,Software,P3 - Medium,Ama S.,Resolved,4.3,8,Yes,Yes,3.9
+TKT-2312,2024-01-08,Jan 2024,Hardware,P3 - Medium,Ama S.,Resolved,3.0,8,Yes,Yes,4.6
+TKT-2313,2024-11-08,Nov 2024,Hardware,P3 - Medium,Kofi M.,Resolved,8.9,8,No,Yes,3.6
+TKT-2314,2024-02-18,Feb 2024,Onboarding,P1 - Critical,James K.,Closed,0.5,1,Yes,Yes,4.1
+TKT-2315,2024-05-16,May 2024,Account Access,P3 - Medium,Ama S.,Resolved,14.7,8,No,Yes,3.9
+TKT-2316,2024-12-20,Dec 2024,Software,P3 - Medium,Ernestina Z.,Resolved,4.9,8,Yes,Yes,3.7
+TKT-2317,2024-09-14,Sep 2024,Onboarding,P2 - High,Ama S.,Resolved,1.8,4,Yes,Yes,4.9
+TKT-2318,2024-11-10,Nov 2024,Software,P3 - Medium,James K.,Resolved,1.8,8,Yes,No,4.2
+TKT-2319,2024-07-10,Jul 2024,Email,P3 - Medium,Kofi M.,Resolved,3.1,8,Yes,Yes,4.7
